@@ -1,0 +1,7 @@
+Die()
+sanitize function
+overall structure
+unset in user_data from Reg & login Part 7: User data (Part 2)
+mysql_fetch_assoc
+password = 5f4dcc3b5aa765d61d8327deb882cf99;
+new pwd = pass

@@ -1,0 +1,179 @@
+#login_widget {
+	position: absolute;
+	left: 800px;
+	top: 100px;
+}
+
+#vertical_line {
+position: relative;
+left: 270px;
+}
+#login_form{
+	position: absolute;
+	left: -300px;
+	top: -120px;
+}
+#error{
+	position: absolute;
+	left: 400px;
+	top: 200px;
+}
+#logout_error{
+	position: absolute;
+	left: 400px;
+	top: 560px;
+}
+#login {
+	position: absolute;
+	left: 250px;
+	top: 150px;}
+#left_nav {
+	position: absolute;
+	left: 0px;
+	top: 70px;
+}
+#enroll_form {
+	position: absolute;
+	left: 400px;
+	top: 150px;
+}
+ul {
+	list-style-type:none;
+}
+
+.small_heading {
+position: absolute;
+left: 42px;
+top: 5px;
+color: black;
+font: 20px sans-serif;
+
+}
+.small_heading_left {
+
+color: black;
+font: 20px sans-serif;
+
+}
+#title {
+position: absolute;
+text-align: center;
+right: 240px;
+//left: 430px;
+color: orange;
+}
+#home {
+position: absolute;
+left: 190px;
+top: 120px;
+height: 397px;
+width: 706px;
+}
+#homepic {
+position: absolute;
+left: 190px;
+top: 120px;
+z-index: 20;
+height: 397px;
+width: 706px;
+}
+.home  {
+position: absolute;
+left: 190px;
+top: 120px;
+height: 397px;
+width: 706px;
+}
+body {
+color: black;
+font: 16px sans-serif;
+background-color: #EFEFF5;
+}
+a:link, a:visited {
+	text-decoration: none;
+}
+a:link {
+color: #CC6A29;
+}
+a:visited {
+color: orange;
+}
+a:hover {
+color: red;
+}
+
+.post_a_comment {
+position: absolute;
+left: 200px;
+top: 200px;
+height: auto;
+}
+
+.text{
+color: grey;
+position: absolute;
+left: 240px;
+top: 100px;
+height: 500px;
+width: 500px;
+font: 12px sans-serif;
+}
+#about_pic {
+height: 220px;
+width:450px;
+}
+#container {
+height: 600px;
+width: 1000px;
+position: absolute;
+left: 150px;
+top: 40px;
+background-color: white;
+}
+#right{
+text-align: center;
+}
+#container hr{
+position: relative;
+top: 40px;
+color: #EFEFF5;
+
+}
+ hr{
+position: relative;
+top: 40px;
+color: #EFEFF5;
+
+}
+
+#hor_nav {
+position: absolute;
+top: 5px;
+left: -25px;
+
+}
+#hor_nav li {
+	float:left;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.headings
+{
+position: absolute;
+top: 30px;
+left: 100px;
+font: 50px sans-serif;
+color: #CC6A29;
+height: 50px;
+}
+.headings_post
+{
+position: relative;
+text-align: left;
+top: -70px;
+left: 0px;
+font: 50px sans-serif;
+color: #CC6A29;
+height: 50px;
+}
+

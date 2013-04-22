@@ -1,0 +1,141 @@
+#login_widget {
+	position: absolute;
+	left: 800px;
+	top: 100px;
+}
+
+#vertical_line {
+position: relative;
+left: 270px;
+}
+#login_form{
+	position: absolute;
+	left: -300px;
+	top: -120px;
+}
+#error{
+	position: absolute;
+	left: 400px;
+	top: 200px;
+}
+#logout_error{
+	position: absolute;
+	left: 400px;
+	top: 560px;
+}
+#login {
+	position: absolute;
+	left: 250px;
+	top: 150px;}
+#left_nav {
+	position: absolute;
+	left: 0px;
+	top: 70px;
+}
+#enroll_form {
+	position: absolute;
+	left: 400px;
+	top: 150px;
+}
+ul {
+	list-style-type:none;
+}
+
+#home {
+position: absolute;
+left: 190px;
+top: 120px;
+height: 397px;
+width: 706px;
+}
+body {
+color: black;
+font: 16px sans-serif;
+background-color: #EFEFF5;
+}
+a:link, a:visited {
+	text-decoration: none;
+}
+a:link {
+color: #CC6A29;
+}
+a:visited {
+color: orange;
+}
+a:hover {
+color: red;
+}
+.text{
+color: grey;
+
+font: 10px sans-serif;
+}
+
+.comment{
+width: 700px;
+height: 50px;
+background-color: white;
+}
+
+.post_a_comment {
+position: absolute;
+left: 200px;
+top: 200px;
+height: auto;
+}
+
+#container {
+height: auto;
+width: 1000px;
+position: absolute;
+left: 150px;
+top: 40px;
+background-color: #EFEFF5;
+}
+#right{
+text-align: center;
+}
+#container hr{
+position: relative;
+top: 40px;
+color: #EFEFF5;
+
+}
+ hr{
+position: relative;
+top: 40px;
+color: #EFEFF5;
+
+}
+
+#hor_nav {
+position: absolute;
+top: 5px;
+left: -25px;
+
+}
+#hor_nav li {
+	float:left;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.headings
+{
+position: absolute;
+top: 30px;
+left: 100px;
+font: 50px sans-serif;
+color: #CC6A29;
+height: 50px;
+}
+.headings_post
+{
+position: relative;
+text-align: left;
+top: -70px;
+left: 0px;
+font: 50px sans-serif;
+color: #CC6A29;
+height: 50px;
+}
+

@@ -1,0 +1,40 @@
+
+body {
+  position: relative;
+  top: -50px;
+  font: 12px sans-serif;
+  color: black;
+  padding-top: 0px;
+  padding-left: 0px;
+  
+}
+
+#container
+{
+height: 620px;
+}
+.formtext 
+{
+padding-left: 10px;
+padding-right:10px;
+}
+.tc
+{
+font-size: 15px;
+}
+.submit
+{
+font-size: 30px;
+color: grey;
+}
+#form
+{
+
+width: 900px;
+ position: absolute;
+  top: 160px;
+  left: 100px;
+  height: 430px;
+  font: 15px sans-serif;  
+  background-color: white;
+  }
